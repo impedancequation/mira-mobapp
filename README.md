@@ -49,7 +49,7 @@ MIRA is a comprehensive Flutter-based mobile application designed to enhance lea
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mitcheltastic/mira-mobapp.git
+   git clone https://github.com/impedancequation/mira-mobapp.git
    cd mira-mobapp
    ```
 
